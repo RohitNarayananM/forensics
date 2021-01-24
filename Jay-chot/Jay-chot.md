@@ -10,7 +10,7 @@ Here we get a jpg file which is not opening. So we looked at its hex code and th
 
 We corrected it and opened it
 
-![image-20210124221930294](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210124221930294.png)
+![image-20210124221930294](jaychot.png)
 
 
 
