@@ -4,8 +4,6 @@ hey did you know cJ waS parT of thE Grove street ?
 
 ## Solving
 
-![](C:\Users\ASUS\Desktop\forensics\backtosa.jpg)
-
 Here we are given a jpg file. If we look at the capital letters in the hint it says 
 
 'JSTEG'
@@ -28,4 +26,4 @@ In that link was an image which gave us the flag:
 
 ## Flag
 
-inctfj{gr0ve_5treet_f0r_l1fe}
+**inctfj{gr0ve_5treet_f0r_l1fe}**
