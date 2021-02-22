@@ -1,0 +1,5 @@
+Obviously, this is not the flag, but I can give you the flag format.
+
+inctf{s0m3_l33t_str1ng}
+
+PS: "inctf" in the flag is also case insensitive. Find three flags in the file.

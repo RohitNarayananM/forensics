@@ -1,0 +1,17 @@
+Write shell scripts such that your scripts print the following paterns.
+
+Pattern 1: 
+    #
+   ##
+  ###
+ ####
+#####
+
+Pattern 2:
+        #
+       ###
+      #####
+     #######
+    #########
+   ###########
+  #############
